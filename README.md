@@ -1,1 +1,1 @@
-# react-meetup-test
+# react-event-management
